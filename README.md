@@ -26,7 +26,7 @@ Building modern, scalable, and user-friendly web applications 🚀
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,git,github,vscode,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,mongodb,python,java,c,cpp,git,github,vscode)](https://skillicons.dev)
 
 </p>
 
@@ -46,9 +46,9 @@ Building modern, scalable, and user-friendly web applications 🚀
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mustafa475689&theme=onedark&no-frame=true" />
-</p>
+</p> -->
 ---
 
 ## 📊 GitHub Profile Summary
