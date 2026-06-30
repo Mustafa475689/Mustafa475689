@@ -90,9 +90,8 @@ Building modern, scalable, and user-friendly web applications 🚀
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">LinkedIn</a> •
-<a href="YOUR_PORTFOLIO">Portfolio</a> •
-<a href="mailto:YOUR_EMAIL">Email</a>
+<a href="[YOUR_PORTFOLIO](https://github.com/Mustafa475689/Personal-Portfoilio)">Portfolio</a> •
+<a href="mailto:kmustafakhan334@gmail.com">Email</a>
 
 </p>
 
@@ -100,6 +99,5 @@ Building modern, scalable, and user-friendly web applications 🚀
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! ⭐
 
 </p>
