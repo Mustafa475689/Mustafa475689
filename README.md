@@ -36,15 +36,15 @@ Building modern, scalable, and user-friendly web applications 🚀
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mustafa475689&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa475689&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Mustafa475689&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -54,7 +54,7 @@ Building modern, scalable, and user-friendly web applications 🚀
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Mustafa475689&theme=tokyonight&margin-w=15&no-frame=true"/>
 
 </p>
 
