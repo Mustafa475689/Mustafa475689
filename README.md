@@ -1,87 +1,105 @@
 <h1 align="center">Hi 👋, I'm Mustafa Khan</h1>
 
-<h3 align="center">Full Stack Developer | JavaScript Enthusiast | Problem Solver</h3>
+<h3 align="center">Full Stack Developer | React • Next.js • Node.js</h3>
 
 <p align="center">
-I enjoy building modern web applications using React, Next.js, Node.js, and Express. I'm continuously learning new technologies and improving my problem-solving skills.
+Building modern, scalable, and user-friendly web applications 🚀
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Technologies;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
 - 💻 Full Stack Web Developer
-- 🌱 Currently exploring advanced Next.js and backend architecture
-- 🔥 Passionate about building scalable web applications
-- 📚 Always learning new technologies
+- 🚀 Passionate about building scalable applications
+- 🌱 Currently learning advanced Next.js & System Design
+- 💡 Love solving real-world problems with code
+- 📚 Always learning something new
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
-### Languages
+<p align="center">
 
-![JavaScript](https://skillicons.dev/icons?i=js)
-![Python](https://skillicons.dev/icons?i=python)
-![Java](https://skillicons.dev/icons?i=java)
-![C](https://skillicons.dev/icons?i=c)
-![C++](https://skillicons.dev/icons?i=cpp)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,mongodb,mysql,python,java,c,cpp,git,github,vscode,postman)](https://skillicons.dev)
 
-### Frontend
-
-![React](https://skillicons.dev/icons?i=react)
-![Next.js](https://skillicons.dev/icons?i=nextjs)
-![TailwindCSS](https://skillicons.dev/icons?i=tailwind)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-
-### Backend
-
-![Node.js](https://skillicons.dev/icons?i=nodejs)
-![Express](https://skillicons.dev/icons?i=express)
-
-### Database
-
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![MySQL](https://skillicons.dev/icons?i=mysql)
-
-### Tools
-
-![Git](https://skillicons.dev/icons?i=git)
-![GitHub](https://skillicons.dev/icons?i=github)
-![VS Code](https://skillicons.dev/icons?i=vscode)
-![Postman](https://skillicons.dev/icons?i=postman)
+</p>
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
+</p>
 
-## 📌 Featured Projects
+<p align="center">
 
-- 📌 Pinterest Clone
-- 💬 Real-time Chat Application
-- 🛒 Ecommerce Platform
-- 🔐 Authentication System
-- 📂 File Upload & Sharing App
-- 🌐 Portfolio Website
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🤝 Connect with Me
+# 🏆 GitHub Trophies
 
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_PORTFOLIO
-- Email: YOUR_EMAIL
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&margin-w=15&no-frame=true"/>
+
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile!
+# 📌 Featured Projects
+
+🚀 Pinterest Clone
+
+💬 Real-Time Chat App
+
+🛒 Ecommerce Platform
+
+🔐 Authentication System
+
+📂 File Sharing App
+
+🌐 Personal Portfolio
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">LinkedIn</a> •
+<a href="YOUR_PORTFOLIO">Portfolio</a> •
+<a href="mailto:YOUR_EMAIL">Email</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</p>
