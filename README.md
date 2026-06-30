@@ -44,8 +44,8 @@ Building modern, scalable, and user-friendly web applications 🚀
 
 ---
 
-# 🏆 GitHub Trophies
-
+<!-- # 🏆 GitHub Trophies
+-->
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Mustafa475689&theme=onedark&no-frame=true" />
 </p> -->
@@ -66,20 +66,6 @@ Building modern, scalable, and user-friendly web applications 🚀
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mustafa475689&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mustafa475689&theme=tokyonight&utcOffset=5" />
 </p>
-
-# 📌 Featured Projects
-
-🚀 Pinterest Clone
-
-💬 Real-Time Chat App
-
-🛒 Ecommerce Platform
-
-🔐 Authentication System
-
-📂 File Sharing App
-
-🌐 Personal Portfolio
 
 ---
 
