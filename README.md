@@ -34,21 +34,7 @@ Building modern, scalable, and user-friendly web applications 🚀
 
 # 📊 GitHub Stats
 
-<!-- <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mustafa475689&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa475689&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p> -->
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Mustafa475689&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa475689&theme=tokyo-night"/>
-</p>
 
 <p align="center">
 
@@ -67,6 +53,22 @@ Building modern, scalable, and user-friendly web applications 🚀
 </p>
 
 ---
+
+## 📊 GitHub Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mustafa475689&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mustafa475689&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mustafa475689&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mustafa475689&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mustafa475689&theme=tokyonight&utcOffset=5" />
+</p>
 
 # 📌 Featured Projects
 
