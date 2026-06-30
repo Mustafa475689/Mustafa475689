@@ -47,11 +47,8 @@ Building modern, scalable, and user-friendly web applications 🚀
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mustafa475689&theme=tokyonight&margin-w=15&no-frame=true"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Mustafa475689&theme=onedark&no-frame=true" />
 </p>
-
 ---
 
 ## 📊 GitHub Profile Summary
