@@ -90,7 +90,7 @@ Building modern, scalable, and user-friendly web applications 🚀
 
 <p align="center">
 
-<a href="[YOUR_PORTFOLIO](https://github.com/Mustafa475689/Personal-Portfoilio)">Portfolio</a> •
+<a href="https://github.com/Mustafa475689/Personal-Portfoilio">Portfolio</a> •
 <a href="mailto:kmustafakhan334@gmail.com">Email</a>
 
 </p>
