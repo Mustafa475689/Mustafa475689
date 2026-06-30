@@ -80,7 +80,7 @@ Building modern, scalable, and user-friendly web applications 🚀
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mustafa475689&theme=tokyo-night"/>
 
 </p>
 
