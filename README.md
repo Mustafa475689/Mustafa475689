@@ -15,7 +15,7 @@ Building modern, scalable, and user-friendly web applications.
 <img src="https://komarev.com/ghpvc/?username=Mustafa475689&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-<p align="center"> matrix gif
+<p align="center" class="matrix gif">
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
 </p> 
 
