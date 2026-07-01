@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mustafa Khan</h1>
 
-<h3 align="center">
-🚀 Full Stack Developer | React • Next.js • Node.js
-</h3>
+<h3 align="center">🚀 Full Stack Developer | React • Next.js • Node.js</h3>
 
 <p align="center">
-Building modern, scalable & user-friendly web applications.
+Building modern, scalable, and user-friendly web applications.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;MERN+Stack+Developer;Always+Learning+New+Technologies;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;MERN+Stack+Developer;Always+Learning+New+Technologies;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <p align="center">
@@ -20,18 +18,34 @@ Building modern, scalable & user-friendly web applications.
 
 # 💫 About Me
 
-```js
+```javascript
 const mustafa = {
   role: "Full Stack Developer",
-  location: "Pakistan",
-  code: ["JavaScript", "Python", "Java"],
-  frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
+  location: "Pakistan 🇵🇰",
+  frontend: ["HTML", "CSS", "Bootstrap", "Tailwind CSS", "React", "Next.js"],
   backend: ["Node.js", "Express.js"],
   database: ["MongoDB"],
+  languages: ["JavaScript", "Python", "Java", "C", "C++"],
+  tools: ["Git", "GitHub", "VS Code"],
   currentlyLearning: ["Advanced Python", "Machine Learning"],
-  funFact: "I love turning ideas into real applications 🚀"
-}
+  funFact: "I love building real-world applications 🚀"
+};
 ```
+
+- 💻 Full Stack Web Developer
+- 🚀 Passionate about building scalable web applications
+- 🌱 Currently learning **Advanced Python & Machine Learning**
+- 💡 Love solving real-world problems with code
+- 📚 Always exploring new technologies
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Building Full Stack MERN Applications
+- 📚 Learning Machine Learning
+- ⚡ Improving DSA & Problem Solving
+- 🌍 Contributing to Open Source
 
 ---
 
@@ -63,6 +77,24 @@ const mustafa = {
 
 ---
 
+# 📈 GitHub Profile Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mustafa475689&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mustafa475689&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mustafa475689&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mustafa475689&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mustafa475689&theme=tokyonight&utcOffset=5"/>
+</p>
+
+---
+
 # 📈 Contribution Graph
 
 <p align="center">
@@ -73,22 +105,48 @@ const mustafa = {
 
 ---
 
-# 📊 Profile Summary
+# 🏆 GitHub Trophies (Optional)
+
+> Uncomment this section when the service is working properly.
+
+<!--
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Mustafa475689&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+-->
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 🌐 Personal Portfolio | My developer portfolio website | React, Bootstrap |
+| 📌 Pinterest Clone | Full-stack Pinterest-inspired application | Node.js, Express.js, MongoDB, EJS |
+| 📝 Blog App | Blog platform with authentication | MERN Stack |
+| 💬 Chat Application | Real-time messaging application | Socket.io, Node.js |
+
+---
+
+# 💡 Random Developer Quote
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mustafa475689&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 🎯 Current Focus
+# 🐍 Contribution Snake
 
-- 🚀 Building Full Stack MERN Applications
-- 📚 Learning Machine Learning
-- ⚡ Improving DSA & Problem Solving
-- 🌍 Open Source Contributions
+> Configure GitHub Actions first to enable this animation.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
 
 ---
 
@@ -101,7 +159,7 @@ const mustafa = {
 </a>
 
 <a href="mailto:kmustafakhan334@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Mustafa475689">
@@ -114,6 +172,12 @@ const mustafa = {
 
 <p align="center">
 
-⭐ Thanks for visiting my profile! ⭐
+⭐ If you like my work, consider giving a ⭐ to my repositories.
+
+</p>
+
+<p align="center">
+
+Made with ❤️ by Mustafa Khan
 
 </p>
