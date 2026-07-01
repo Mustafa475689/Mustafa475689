@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=220&section=header&text=Mustafa%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55"/>
 <h1 align="center">Hi 👋, I'm Mustafa Khan</h1>
 
 <h3 align="center">🚀 Full Stack Developer | React • Next.js • Node.js</h3>
