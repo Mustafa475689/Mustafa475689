@@ -34,8 +34,6 @@ Building modern, scalable, and user-friendly web applications 🚀
 
 # 📊 GitHub Stats
 
-
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Mustafa475689&theme=tokyonight&hide_border=true"/>
