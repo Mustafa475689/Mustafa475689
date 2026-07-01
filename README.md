@@ -14,7 +14,6 @@ Building modern, scalable, and user-friendly web applications.
 <img src="https://komarev.com/ghpvc/?username=Mustafa475689&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-<img src="https://metrics.lecoq.io/Mustafa475689"/>
 
 <!--  <p align="center"> coding gif
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
@@ -151,5 +150,5 @@ const mustafa = {
 </p>
 
 <p align="center">
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=120&section=footer"/>
 </p>
