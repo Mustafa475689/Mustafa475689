@@ -15,7 +15,7 @@ Building modern, scalable, and user-friendly web applications.
 </p>
 
 <p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
 ---
 
