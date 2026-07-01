@@ -31,24 +31,6 @@ const mustafa = {
   funFact: "I love building real-world applications 🚀"
 };
 ```
-
-- 💻 Full Stack Web Developer
-- 🚀 Passionate about building scalable web applications
-- 🌱 Currently learning **Advanced Python & Machine Learning**
-- 💡 Love solving real-world problems with code
-- 📚 Always exploring new technologies
-
----
-
-# 🎯 Current Focus
-
-- 🚀 Building Full Stack MERN Applications
-- 📚 Learning Machine Learning
-- ⚡ Improving DSA & Problem Solving
-- 🌍 Contributing to Open Source
-
----
-
 # 🚀 Tech Stack
 
 <p align="center">
@@ -105,7 +87,7 @@ const mustafa = {
 
 ---
 
-# 🏆 GitHub Trophies (Optional)
+# 🏆 GitHub Trophies
 
 > Uncomment this section when the service is working properly.
 
@@ -123,8 +105,7 @@ const mustafa = {
 |---------|-------------|------------|
 | 🌐 Personal Portfolio | My developer portfolio website | React, Bootstrap |
 | 📌 Pinterest Clone | Full-stack Pinterest-inspired application | Node.js, Express.js, MongoDB, EJS |
-| 📝 Blog App | Blog platform with authentication | MERN Stack |
-| 💬 Chat Application | Real-time messaging application | Socket.io, Node.js |
+| 📝 ExmiVana | Online examination platform with authentication | MERN Stack |
 
 ---
 
@@ -177,7 +158,5 @@ const mustafa = {
 </p>
 
 <p align="center">
-
-Made with ❤️ by Mustafa Khan
 
 </p>
