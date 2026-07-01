@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=220&section=header&text=Mustafa%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=220&section=header&text=Mustafa%20Khan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55"/> -->
 <h1 align="center">Hi 👋, I'm Mustafa Khan</h1>
 
 <h3 align="center">🚀 Full Stack Developer | React • Next.js • Node.js</h3>
@@ -15,6 +15,9 @@ Building modern, scalable, and user-friendly web applications.
 <img src="https://komarev.com/ghpvc/?username=Mustafa475689&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
+<p align="center">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
+</p>
 
 <!--  <p align="center"> coding gif
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
@@ -151,5 +154,5 @@ const mustafa = {
 </p>
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=120&section=footer"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,100:00C9FF&height=120&section=footer"/> -->
 </p>
