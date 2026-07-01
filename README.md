@@ -15,7 +15,27 @@ Building modern, scalable, and user-friendly web applications.
 <img src="https://komarev.com/ghpvc/?username=Mustafa475689&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-<!-- <p align="center">
+<p align="center"> coding gif
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" />
+</p>
+
+<p align="center"> hacker gif
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/>
+</p>
+
+<p align="center"> laptop coding gif
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="450"/>
+</p>
+
+<p align="center"> programming gif
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="450"/>
+</p>
+
+<p align="center"> developer desk gif  
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450"/>
+</p>
+
+<!-- <p align="center"> matrix gif
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
 </p> -->
 
@@ -39,7 +59,6 @@ const mustafa = {
   funFact: "I love building real-world applications 🚀"
 };
 ```
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600"/>
 
 # 🚀 Tech Stack
 
