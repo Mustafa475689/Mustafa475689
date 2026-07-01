@@ -14,7 +14,7 @@ Building modern, scalable, and user-friendly web applications.
 <img src="https://komarev.com/ghpvc/?username=Mustafa475689&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=mustafa475689"/>
+<img src="https://metrics.lecoq.io/Mustafa475689"/>
 
 <!--  <p align="center"> coding gif
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
