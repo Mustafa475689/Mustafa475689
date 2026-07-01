@@ -121,11 +121,9 @@ const mustafa = {
 
 # 🐍 Contribution Snake
 
-> Configure GitHub Actions first to enable this animation.
-
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
 </p>
 
