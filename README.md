@@ -16,7 +16,7 @@ Building modern, scalable, and user-friendly web applications 🚀
 
 - 💻 Full Stack Web Developer
 - 🚀 Passionate about building scalable applications
-- 🌱 Currently learning advanced Next.js & System Design
+- 🌱 Currently learning advanced Python & Machine learning
 - 💡 Love solving real-world problems with code
 - 📚 Always learning something new
 
