@@ -112,7 +112,6 @@ const mustafa = {
 
 > Uncomment this section when the service is working properly.
 
-<!--
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Mustafa475689&theme=tokyonight&no-frame=true&row=1&column=7"/>
 </p>
