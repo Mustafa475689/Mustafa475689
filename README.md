@@ -56,7 +56,7 @@ const mustafa = {
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,mongodb,python,java,c,cpp,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,mongodb,python,numpy,java,c,cpp,git,github,vscode)](https://skillicons.dev)
 
 </p>
 
