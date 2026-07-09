@@ -75,7 +75,6 @@ const mustafa = {
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=Mustafa475689&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
