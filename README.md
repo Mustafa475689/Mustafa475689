@@ -45,7 +45,7 @@ const mustafa = {
   frontend: ["HTML", "CSS", "Bootstrap", "Tailwind CSS", "React", "Next.js"],
   backend: ["Node.js", "Express.js"],
   database: ["MongoDB", "Firebase"],
-  languages: ["JavaScript", "Python", "Java", "C", "C++"],
+  languages: ["JavaScript", "TypeScript", "Python", "Java", "C", "C++"],
   tools: ["Git", "GitHub", "VS Code"],
   currentlyLearning: ["Advanced Python", "Machine Learning"],
   funFact: "I love building real-world applications 🚀"
@@ -56,7 +56,7 @@ const mustafa = {
 
 <p align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nextjs,nodejs,express,mongodb,firebase,python,java,c,cpp,git,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,firebase,python,java,c,cpp,git,github,vscode)](https://skillicons.dev)
 
 </p>
 
